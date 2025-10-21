@@ -3,7 +3,9 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 
 // importa los estilos de personalizados para la aplicación
-import './styles/custom.scss'
+import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap-icons/font/bootstrap-icons.css'
+import './styles/custom.css'
 
 // importa el componente App.jsx
 import App from './App'
